@@ -1,5 +1,6 @@
 .odd {
-    background-color: lightcoral; font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: #f08080;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
 .big {
@@ -7,9 +8,11 @@
 }
 
 #blue {
-    color: blue; font-size: 36px;
+    color: #0000ff;
+    font-size: 36px;
 }
 
 #green {
-    background-color: lightgreen; font-size: 24px; font-weight: bold;
+    background-color: #90ee90;
+    font-weight: bold;
 }
